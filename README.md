@@ -1,4 +1,4 @@
-<style>H1{color:Purple !important;}</style>
+<style>H1{color:Purple;}</style>
 
 # Home Page
 ## Nia Vochatzer
