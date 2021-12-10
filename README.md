@@ -14,4 +14,3 @@ Navigate my website by using these links:
 
 [Written Forecasts](./forecastexample.md)
 
-![Certificate](https://github.com/username/image.png)
