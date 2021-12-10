@@ -4,7 +4,7 @@
   
   This evening you may run into some rain on your way home from work, but thankfully these showers are expected to end by the early evening. Wednesday will stay dry, but cloudy skies will stay with us on-and-off throughout the remainder of the week and daytime temperatures will remain in the comfortable 50s to low 60s. Wednesday night, our chances for rain will return, and stay with us throughout the day on Thursday. If you are planning on going out, make sure to bring your umbrella and maybe even some rain boots. Finally, the clouds will begin to clear out a bit on Friday and the sun will return to warm up our temperatures into the low 60s.
   
-  # Technical Discussion
+## Technical Discussion
   
   
 This forecast was assembled using the 12Z run of the GFS, SREF and GEFS plumes for temperatures, and GFS soundings for rain potential and timing. The GFS was chosen due to how well it has handled both initial conditions and the timing and intensity of incoming rain events. 
