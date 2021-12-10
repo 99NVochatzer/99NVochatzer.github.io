@@ -1,3 +1,7 @@
+<style>
+H1{color:Purple !important;}
+</style>
+
 # Home Page
 ## Nia Vochatzer
 I am a student studying Atmospheric Sciences at the University of Missouri. 
