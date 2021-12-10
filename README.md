@@ -11,6 +11,6 @@ Navigate my website by using these links:
 
 [Meteorology](./meteorology.md)
 
-[Written Forecasts](./forecast example.md)
+[Written Forecasts](./forecasting example.md)
 
 ![Certificate](https://github.com/username/image.png)
